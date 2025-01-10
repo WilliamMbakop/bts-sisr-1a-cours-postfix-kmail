@@ -171,3 +171,5 @@ Fermer la page
 Retourner sur Kmail : les dossiers de notre messagerie s’installeront automatiquement. Nous pouvons envoyer dès maintenant nos mails mais aussi en recevoir.
 
 ![alt text](images/img13.png)
+
+![alt text](images/img14.png)
