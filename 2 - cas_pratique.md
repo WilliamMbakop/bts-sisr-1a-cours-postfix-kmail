@@ -6,8 +6,6 @@
 |-----------------|----------------------------------------------|
 | **Auteur**      | William Mbakop                               |
 | **Profession**  | étudiant en alternance - BTS SIO SISR        |
-| **Version**     | 1.0.0                                        |
-| **Date**        | 9 janvier 2025                               |
 | **Description** | Postfix, Kmail - Cas pratique                |
 
 
